@@ -1,0 +1,522 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass scrbook
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+
+\lang bahasa
+About SLiMS:
+\end_layout
+
+\begin_layout Standard
+
+\lang bahasa
+As a token and gratitiude for Indonesia, started from Senayan3-stable 14,
+ every new release of SLiMS will use plant name found in Indonesia as a
+ codename convention.
+ Seulanga is a codename for Senayan3-Stable14, while Senayan3-Stable15 codename
+ is Matoa.
+ 
+\lang english
+Full information for each release can be found in 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://slims.web.id/web/?q=node/1
+\end_layout
+
+\end_inset
+
+.
+ SLiMS development history can also be found in:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+HTTP://id.wikipedia.org/wiki/Senayan_%28perangkat_lunak%29
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang bahasa
+From Senayan3-Stable15, SLiMS development is jump ahead to SLiMS-5 with
+ codename MERANTI and skipped the SLiMS 4 naming convention.
+\end_layout
+
+\begin_layout Standard
+
+\lang bahasa
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+
+\lang bahasa
+Meranti merupakan tumbuhan kayu yang populasinya kian mendekati kepunahan.
+ Meranti yang merupakan spesies dari famili Dipterocarpaceae masuk dalam
+ penetapan spesies prioritas konservasi Lembaga Ilmu Pengetahuan Indonesia
+ atau LIPI.
+\end_layout
+
+\begin_layout Plain Layout
+
+\lang bahasa
+Peneliti dari Pusat Penelitian Biologi LIPI, Dr Tukirin Partomiharjo, mengatakan
+, meranti bersama tumbuhan lain dalam famili Dipterocarpaceae seperti kayu
+ kapur, kruing, dan bengkirai menjadi spesies yang paling banyak dimanfaatkan
+ manusia.
+ Namun, pengeksplorasian besar-besaran terhadap tumbuhan ini membuat populasinya
+ terus berkurang.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+HTTP://himpalaunas.com/artikel/lingkungan/2010/09/28/wah-pohon-meranti-terancam-p
+unah
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang bahasa
+Physical description of Meranti tree is standing high and tall with plenty
+ of braches.
+ It wood is consider a high value teak and facing danger with extinction.
+ SDC hopes SLiMS-5 can rise high and provide a high value for many libraries,
+ especailly in Indonesia and reminds people of its extinctions in nature.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang bahasa
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename image/Meranti-Tree03.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang bahasa
+Picture source: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.towermaster-online.com/images/enviropole/Meranti-Tree03.jpg
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang bahasa
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+\lang bahasa
+Credit Title
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+\lang bahasa
+Credit Title: 
+\begin_inset Newline newline
+\end_inset
+
+Hendro Wicaksono (hendrowicaksono@yahoo.com) -- Arie Nugraha (dicarve@yahoo.com)
+ – Arif Syamsudin (buitenzorg812@gmail.com) – M.
+ Rasyid Ridho (ridho_edogawa@yahoo.com) –Sulfan Zayd (sulfan@gmail.com) --
+ Purwoko (tamanjiwa@gmail.com) -- Wardiyono (wynerst@gmail.com) -- Eddy Subratha
+ (eddy.subratha@gmail.com) -- Indra Sutriadi Pipii (indra.sutriadi@gmail.com)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\lang bahasa
+This document is created with Creative Common License (CCL)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/about/licenses/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang bahasa
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename image/cc-by-nc-sa_340x340.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang bahasa
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+They talk
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+Ismail Fahmi:
+\noun default
+ Turut bangga dengan Hendro (Wicaksono) dan kawan-kawan di SLiMS.
+ Sebuah pencapaian yg luar biasa.
+ Anda pantas mendapatkannya, karena dedikasi dan kerjakeras selama ini.
+ Semoga makin memompa semangat teman-teman untuk terus berkarya.
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+Diao Ai Lien
+\noun default
+ (Pustakawan berprestasi I DIKTI 2011): Bravo!! Maju terus SLIMS.
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+Putu Laxman Pendit:
+\noun default
+ TOP MARKOTOP! Semoga SLiMS dan Komunitasnya bisa terus jadi bukti bahwa
+ berbuat baik itu baik, tetapi lebih baik lagi kalau berbuat baik untuk
+ orang banyak! :-))
+\end_layout
+
+\begin_layout Itemize
+
+\noun on
+Daniel D'esposito (HURIDOCS Executive Director )
+\noun default
+: This is my favorite, I came across it by chance in Jakarta last month,
+ its made by Indonesian developers and used by NGOs and the NHRI.
+ But it’s unknown in the rest of the world.
+ I am hoping it will be the winner so we can promote it like crazy.
+ (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www2.law.uu.nl/english/sim/library/ecchrd/32/OpenSource.pdf
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Section
+URL recommendations relate to SLiMS
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://slims.web.id/web/?q=faq 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://slims.web.id/download/docs/
+\end_layout
+
+\end_inset
+
+ (A lot of documentations) 
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://slims.web.id/forum
+\end_layout
+
+\end_inset
+
+ (SLiMS community forum discussion)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://slims.web.id/demo
+\end_layout
+
+\end_inset
+
+ (SLiMS online demo)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.facebook.com/groups/senayan.slims/
+\end_layout
+
+\end_inset
+
+ (SLiMS facebook group)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/slims/ 
+\end_layout
+
+\end_inset
+
+ (SLiMS daily update development)
+\end_layout
+
+\begin_layout Itemize
+SLiMS community sites: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://jogjalib.net
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://pangkeplib.net
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://primurlib.net
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://ambonlib.net
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://makassarlib.net
+\end_layout
+
+\end_inset
+
+, 
+\end_layout
+
+\end_body
+\end_document
